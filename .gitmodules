@@ -1,0 +1,3 @@
+[submodule "libptytty"]
+	path = libptytty
+	url = https://github.com/yusiwen/libptytty
